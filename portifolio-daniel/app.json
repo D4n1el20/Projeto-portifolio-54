@@ -2,6 +2,7 @@
   "expo": {
     "name": "portifolio-daniel",
     "slug": "portifolio-daniel",
+    "owner": "projeto-portifolio-daniel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "826b7325-5fba-4490-94d9-be5c211193fa"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/826b7325-5fba-4490-94d9-be5c211193fa"
     }
   }
 }
